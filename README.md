@@ -1,2 +1,2 @@
 # QBlackDigger
-BlackDigger for QPython. A tool for "hackers". 
+BlackDigger for QPython. 
